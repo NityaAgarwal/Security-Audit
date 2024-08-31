@@ -4,7 +4,7 @@ As part of my Google Cybersecurity Professional Certificate, I conducted a secur
 ## Objective
 Perform a comprehensive security audit based on a case study of a fictional company to identify vulnerabilities and provide remediation recommendations
 ## Case Study (provided in the course)
-![img 0](./scopeCase.jpg)
+![img 0](./sampleCase.jpg)
 ### Steps of a Internal Security Audit
 Typically, an internal security audit will comprise of the following steps - 
 1. Audit Planning (Defining the scope, goal of the audit, as well as the security frameworks that will/might be considered)
