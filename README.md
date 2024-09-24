@@ -26,4 +26,6 @@ Controls refer to the safeguards of different kinds that are implemented to tack
 Policies - it depends on (A) the frameworks that the organisation voluntarily has chosen to work according to. (B) the frameworks that it must comply to because its operations are in a particular geographical location where certain laws have to be mandatorily complied with. Keeping point A in mind, NIST-CSF will be reviewed, and keeping B in mind, GDPR and PCI DSS will be considered because the organisation is expanding in the E.U. region.
 ![img 4](./compliance.jpg)
 ## Step 5: Final Review and Future Recommendations
-Final ending note on the audit. Reccommendations are optional. This part is generally for communicating the concerns/results to the stakeholders.
+Final ending note on the audit. Recommendations are optional. This part is generally for communicating the concerns/results to the stakeholders.
+It may also mention technical recommendations for security professionals. A sample of it has been implemented by using Python to create a small script to automate the task of updating the list of IP Addresses that are allowed privileged access - please refer to the [Access Control Management based on IP Addresses](https://github.com/NityaAgarwal/Security-Audit/tree/main/Access%20Control%20Management%20based%20on%20IP%20addresses)
+ folder in this repository for the same.
